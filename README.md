@@ -6,6 +6,7 @@ Shortfall, checks them against limits, flags the volatility regime, and shows
 which positions drive the risk.
 
 **Live app:** https://marketriskmonitor-ahtmaedftpriid4q682u5b.streamlit.app/
+Note:If the app is asleep, click the wake button and wait 30 seconds.
 <img width="1384" height="584" alt="AdobeExpressPhotos_461968e0617e423798814ee3bd54e07f_CopyEdited" src="https://github.com/user-attachments/assets/3aa1ddd6-e165-4939-8e24-d7f7dfcbba88" />
 
 

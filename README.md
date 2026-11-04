@@ -5,9 +5,9 @@ portfolio (4 US and 4 Indian stocks, measured in INR). It shows VaR and Expected
 Shortfall, checks them against limits, flags the volatility regime, and shows
 which positions drive the risk.
 
-**Live app:** _add your Streamlit Cloud link here_
+**Live app:** https://marketriskmonitor-ahtmaedftpriid4q682u5b.streamlit.app/
+<img width="1384" height="584" alt="AdobeExpressPhotos_461968e0617e423798814ee3bd54e07f_CopyEdited" src="https://github.com/user-attachments/assets/3aa1ddd6-e165-4939-8e24-d7f7dfcbba88" />
 
-_Add a screenshot of the dashboard here._
 
 ## What it does
 

@@ -7,8 +7,8 @@ which positions drive the risk.
 
 **Live app:** https://marketriskmonitor-ahtmaedftpriid4q682u5b.streamlit.app/
 Note:If the app is asleep, click the wake button and wait 30 seconds.
+<img width="953" height="338" alt="Screenshot 2026-11-04 211142" src="https://github.com/user-attachments/assets/1ae3162c-6b2c-44d9-8fe2-e978791fbced" />
 
-<img width="691" height="244" alt="Screenshot 2026-11-04 211200" src="https://github.com/user-attachments/assets/57ac84f4-2ab0-40f6-b335-5299f8afc430" />
 
 <img width="691" height="244" alt="Screenshot 2026-11-04 211200" src="https://github.com/user-attachments/assets/9471b5b4-79ab-4cd4-a166-5d38dcf9179d" />
 

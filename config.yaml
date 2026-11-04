@@ -1,0 +1,23 @@
+# Portfolio and limits. All limits are illustrative: calibrate after
+# looking at the actual VaR output, and say so in the README.
+base_currency: INR        # all positions are converted to this before risk is computed
+lookback_years: 3
+confidence_levels: [0.95, 0.99]
+ewma_lambda: 0.94         # RiskMetrics standard
+
+portfolio:                # weights must sum to 1
+  - {ticker: AAPL,        weight: 0.125, currency: USD}
+  - {ticker: MSFT,        weight: 0.125, currency: USD}
+  - {ticker: JPM,         weight: 0.125, currency: USD}
+  - {ticker: XOM,         weight: 0.125, currency: USD}
+  - {ticker: RELIANCE.NS, weight: 0.125, currency: INR}
+  - {ticker: HDFCBANK.NS, weight: 0.125, currency: INR}
+  - {ticker: TCS.NS,      weight: 0.125, currency: INR}
+  - {ticker: ITC.NS,      weight: 0.125, currency: INR}
+
+limits:                   # used in Phase 3
+  var_95_1d: 0.015        # 1-day 95% VaR, % of portfolio
+  var_99_1d: 0.022        # 1-day 99% VaR, % of portfolio
+  single_name_weight: 0.20
+  daily_loss: 0.020
+  amber_threshold: 0.80   # amber when usage >= 80% of limit
